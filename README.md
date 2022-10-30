@@ -1,6 +1,6 @@
-### Deep-Learning-Neural-Networks
+# Deep-Learning-Neural-Networks
 This repository shows my journey into study of deep learning and neural network (Machine Learning)
-# DEEP LEARNING INTRODUCTION
+### DEEP LEARNING INTRODUCTION
 **Blessing Nehohwa**
 
 A machine learning algorithm is like a black box that we feed input data and it delivers an output.
