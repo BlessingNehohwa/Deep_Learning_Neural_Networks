@@ -19,7 +19,7 @@ A machine learning algorithm is like a black box that we feed input data and it 
 - **Objective Function:**
   Is the Measure used to evaluate how well the model's outputs match the desired correct values.
   <br> These are generally split into Loss Funsctions and Reward Functions.
-  <br> **loss Functions** are also called Cost Functions , the lower the loss function the higher the accuracy.
+  <br> **Loss Functions** are also called Cost Functions , the lower the loss function the higher the accuracy.
   <br> The higher the **reward function** of the the higher the model's level of accuracy.
   <br> Loss functions are the most common function dealt with in real life.
   <br>Making sure that the output of the model is as close to reality as possible.
