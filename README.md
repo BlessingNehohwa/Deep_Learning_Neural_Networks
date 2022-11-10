@@ -13,7 +13,7 @@ A machine learning algorithm is like a black box that we feed input data and it 
 - **Model :**
   We need a model the simplest mpodel we can train is a linear model
   stepping upon linear model. <br>Deep machine learning lets us create complicated  non-linear models- these usally fit the data much better than a simple linear model
-  <br>It all boils down to optimising this function.
+  <br>It all boilsi down to optimising this function.
   <br>If our model is measuring the prediction error of the model we would want to minimize this error, minimise the objective function
   
 - **Objective Function:**
