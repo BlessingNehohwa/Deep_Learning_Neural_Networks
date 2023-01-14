@@ -23,7 +23,7 @@ A machine learning algorithm is like a black box that we feed input data and it 
   <br> The higher the **reward function** of the the higher the model's level of accuracy.
   <br> Loss functions are the most common function dealt with in real life.
   <br>Making sure that the output of the model is as close to reality as possible.
-  <br> It estimates how correct the mode's outputs are on average
+
   
   
   **[Deep Learning Introduction Tutorial](https://github.com/BlessingNehohwa/Deep-Learning-Neural-Networks/blob/main/Deep%20Learning%20Tutorial.ipynb
