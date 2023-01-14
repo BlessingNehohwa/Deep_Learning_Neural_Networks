@@ -22,8 +22,6 @@ A machine learning algorithm is like a black box that we feed input data and it 
   <br> **Loss Functions** are also called Cost Functions , the lower the loss function the higher the accuracy.
   <br> The higher the **reward function** of the the higher the model's level of accuracy.
   
- 
-  
   
   **[Deep Learning Introduction Tutorial](https://github.com/BlessingNehohwa/Deep-Learning-Neural-Networks/blob/main/Deep%20Learning%20Tutorial.ipynb
 ).**
