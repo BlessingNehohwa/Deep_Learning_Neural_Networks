@@ -5,7 +5,7 @@ This repository shows my journey into study of deep learning and neural network 
 
 A machine learning algorithm is like a black box that we feed input data and it delivers an output.
 
-### The ingredients from making an Algorithm
+### The ingredients from making an Algorithms
 
 - **Data :**
   Readily available historical data
